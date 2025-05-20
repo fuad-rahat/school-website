@@ -1,0 +1,21 @@
+{
+  "name": "শুকতারা বিদ্যানিকেতন",
+  "short_name": "শুকতারা",
+  "description": "শিক্ষা, সংস্কৃতি ও মূল্যবোধের সেতুবন্ধন",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/shuktara.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/shuktara.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+} 
